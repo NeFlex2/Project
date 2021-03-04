@@ -10,3 +10,5 @@
 ![Информация о сайте](https://github.com/NeFlex2/Project/blob/main/Макет/3.png)
 # Корзина товаров покупателя
 ![Корзина товаров покупателя](https://github.com/NeFlex2/Project/blob/main/Макет/4.png)
+# Функционал 
+[] (https://github.com/NeFlex2/Project/blob/main/Project.docx)
